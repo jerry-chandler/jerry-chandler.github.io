@@ -34,8 +34,8 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2022.09 - Present*, Zhejiang University, Hangzhou, China, Ph.D., Electronic Science \& Technology
-- *2018.09 - 2022.06*, Zhejiang University, Hangzhou, China, B.Eng., Microelectronics Science \& Engineering 
+- *2022.09 - Present*, Zhejiang University, Hangzhou, China, Ph.D., Electronic Science and Technology
+- *2018.09 - 2022.06*, Zhejiang University, Hangzhou, China, B.Eng., Microelectronics Science and Engineering 
  
 <span class='anchor' id='-lwzl'></span>
 
