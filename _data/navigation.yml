@@ -9,8 +9,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  # - title: "荣誉奖项"
-  #   url: "/zh-cn/#-ryjx"
+  - title: "Publications"
+    url: "/#-publications"
 
   # - title: "学术会议"
   #   url: "/zh-cn/#-xshy"
