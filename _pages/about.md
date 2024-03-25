@@ -39,6 +39,16 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
  
 <span class='anchor' id='-lwzl'></span>
 
+# 📝 Publications
+## 📚 Journal Papers
+- <span style="background-color:blue; color:white;">Nature Communications 2024</span> Xunzhao Yin\*, **Yu Qian**\*, Alptekin Vardar, Marcel Günther, Franz Müller, Nellie Laleni, Zijian Zhao, Zhouhang Jiang, Zhiguo Shi, Yiyu Shi, Xiao Gong, Cheng Zhuo, Thomas Kämpfe and Kai Ni, "Ferroelectric compute-in-memory annealer for combinatorial optimization problems". Nature Communnications 15, 2419 (2024). (IF = 17, JCR Section 1)
+- <span style="background-color:blue; color:white;">TCAD 2022</span> Xunzhao Yin, **Yu Qian**, Mohsen Imani, Kai Ni, Chao Li, Grace Li Zhang, Bing Li, Ulf Schlichtmann and Cheng Zhuo, "Ferroelectric Ternary Content Addressable Memories for Energy-Efficient Associative Search", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022, 42(4): 1099-1112. (IF = 3, CCF-A, JCR Section 3)
+## 📚 Conference Papers
+- <span style="background-color:blue; color:white;">DAC 2024</span> **Yu Qian**, Zeyu Yang, Kai Ni, Alptekin Vardar, Thomas Kämpfe and Xunzhao Yin, "HyCiM: A Hybrid Computing-in-Memory QUBO Solver for General Combinatorial Optimization Problems with Inequality Constraints", ACM/IEEE Design Automation Conference(DAC), San Francisco, CA, Jun. 23-27, 2024. (CCF-A, EDA TOP 4 Conference)
+- <span style="background-color:blue; color:white;">DAC 2024</span> **Yu Qian**, Kai Ni, Thomas Kämpfe, Cheng Zhuo and Xunzhao Yin, "C-Nash: A Novel Ferroelectric Computing-in-Memory Architecture for Solving Mixed Strategy Nash Equilibrium", ACM/IEEE Design Automation Conference(DAC), San Francisco, CA, Jun. 23-27, 2024. (CCF-A, EDA TOP 4 Conference)
+- <span style="background-color:blue; color:white;">DAC 2024</span> Zeyu Yang, Qingrong Huang, **Yu Qian**, Kai Ni, Thomas Kämpfe and Xunzhao Yin, "Energy Efficient Dual Designs of FeFET-Based Analog In-Memory Computing with Inherent Shift-Add Capability", ACM/IEEE Design Automation Conference(DAC), San Francisco, CA, Jun. 23-27, 2024. (CCF-A, EDA TOP 4 Conference)
+- <span style="background-color:blue; color:white;">ASP-DAC 2024</span> Liang Zhao\*, **Yu Qian**\*, Fanzi Meng, Xiapeng Xu, Xunzhao Yin and Cheng Zhuo, "ConvFIFO: A Crossbar Memory PIM Architecture for ConvNets Featuring First-In-First-Out Dataflow", IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC),  Incheon Songdo Convensia, South Korea, Jan. 22-25, 2024. (CCF-C, EDA TOP 4 Conference)
+- <span style="background-color:blue; color:white;">DATE 2021</span> **Yu Qian**, Zhenhao Fan, Haoran Wang, Chao Li, Mohsen Imani, Kai Ni, Grace Li Zhang, Bing Li, Ulf Schlichtmann, Cheng Zhuo and Xunzhao Yin, "Energy-aware designs of ferroelectric ternary content addressable memory", IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual, Feb. 1-5, 2021. (CCF-B, EDA TOP 4 Conference)
 <!--
 # 📝 论文专利
 
