@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About me"
-    url: "../_pages/about.md"
+    url: "https://jerry-chandler.github.io/blob/master/_pages/about.md"
 
   - title: "News"
-    url: "../_pages/about.md#-news"
+    url: "https://jerry-chandler.github.io/blob/master/_pages/about.md#-news"
 
   - title: "Educations"
-    url: "../_pages/about.md#-news"
+    url: "https://jerry-chandler.github.io/blob/master/_pages/about.md#-educations"
 
   # - title: "荣誉奖项"
   #   url: "/zh-cn/#-ryjx"
