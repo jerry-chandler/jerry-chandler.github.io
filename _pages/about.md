@@ -27,6 +27,12 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 <span class='anchor' id='-xl'></span>
 
+# 🔥 News
+- *2024.03, our paper (first student author) is published on Nature Communications! Congratulations to all! The paper is available at [https://www.nature.com/articles/s41467-024-46640-x](https://www.nature.com/articles/s41467-024-46640-x).
+- *2024.01*, Three papers (with two as the first author) are accepted by DAC2024! Congratulations to all!
+
+<span class='anchor' id='-xl'></span>
+
 # 🎓 Educations
 - *2022.09 - Present*, Zhejiang University, Hangzhou, China, Ph.D., Electronic Science \& Technology
 - *2018.09 - 2022.06*, Zhejiang University, Hangzhou, China, B.Eng., Microelectronics Science \& Engineering 
