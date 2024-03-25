@@ -39,6 +39,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
  
 <span class='anchor' id='-lwzl'></span>
 
+<!--
 # 📝 论文专利
 
 ### 英文
@@ -166,7 +167,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
 <span class='anchor' id='-gzsx'></span>
-
+-->
 # 💻 工作实习
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
