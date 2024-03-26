@@ -57,6 +57,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 - Bronze medal of Student Research Competition at ICCAD, *2021*
 - Enterprise Special Award at Integrated Circuit EDA Design Elite Challenge (Team Leader), *2021* 
 - 2nd place (men's team) and 3rd place (mixed doubles) in the table tennis competition of the 16th University Games of Zhejiang Province, *2021*
+- Huawei Elite Scholarship, *2020*
 
 <span class='anchor' id='-educations'></span>
 
