@@ -67,7 +67,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 <span class='anchor' id='-hobby'></span>
 
-# 🎓 Specialties and hobbies
+# 🏃 Specialties and hobbies
 
 - 🏓 Table Tennis:  Member of Zhejiang University team, *2018-Present*
 - 🎤 Host: Host of the College New Year Party and Graduation Party, *2020-2022*
