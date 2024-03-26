@@ -31,11 +31,6 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 - *2024.03*, our paper (as the first student author) is published on Nature Communications! Congratulations to all! The paper is available at [https://www.nature.com/articles/s41467-024-46640-x](https://www.nature.com/articles/s41467-024-46640-x).
 - *2024.02*, Three papers (with two as the first author) are accepted by DAC2024! Congratulations to all!
 
-<span class='anchor' id='-educations'></span>
-
-# 🎓 Educations
-- *2022.09 - Present*, Zhejiang University, Hangzhou, China, Ph.D., Electronic Science and Technology
-- *2018.09 - 2022.06*, Zhejiang University, Hangzhou, China, B.Eng., Microelectronics Science and Engineering 
  
 <span class='anchor' id='-publications'></span>
 
@@ -51,3 +46,28 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">ASP-DAC 2024</span> Liang Zhao\*, **Yu Qian**\*, Fanzi Meng, Xiapeng Xu, Xunzhao Yin and Cheng Zhuo, "ConvFIFO: A Crossbar Memory PIM Architecture for ConvNets Featuring First-In-First-Out Dataflow", IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC),  Incheon Songdo Convensia, South Korea, Jan. 22-25, 2024. (CCF-C, EDA TOP 4 Conference)
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DATE 2021</span> **Yu Qian**, Zhenhao Fan, Haoran Wang, Chao Li, Mohsen Imani, Kai Ni, Grace Li Zhang, Bing Li, Ulf Schlichtmann, Cheng Zhuo and Xunzhao Yin, "Energy-aware designs of ferroelectric ternary content addressable memory", IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Virtual, Feb. 1-5, 2021. (CCF-B, EDA TOP 4 Conference)
 
+<span class='anchor' id='-honors'></span>
+
+# 🏅 Selected Honors and Awards
+
+- Yuelun Alumni Scholarship (Two Times), *2023, 2021*
+- Outstanding Graduates of Zhejiang Province, *2022*
+- National Scholarship (Two Times), *2020-2021*
+- The First Class Scholarship (Three Times), *2019-2021*
+- Bronze medal of Student Research Competition at ICCAD, *2021*
+- Enterprise Special Award at Integrated Circuit EDA Design Elite Challenge (Team Leader), *2021* 
+- 2nd place (men's team) and 3rd place (mixed doubles) in the table tennis competition of the 16th University Games of Zhejiang Province, *2021*
+
+<span class='anchor' id='-educations'></span>
+
+# 🎓 Educations
+
+- *2022.09 - Present*, Zhejiang University, Hangzhou, China, Ph.D., Electronic Science and Technology
+- *2018.09 - 2022.06*, Zhejiang University, Hangzhou, China, B.Eng., Microelectronics Science and Engineering 
+
+<span class='anchor' id='-hobby'></span>
+
+# 🎓 Specialties and hobbies
+
+- 🏓 Table Tennis:  Member of Zhejiang University team, *2018-Present*
+- 🎤 Host: Host of the College New Year Party and Graduation Party, *2020-2022*
