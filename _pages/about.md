@@ -64,7 +64,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 # 🎓 Educations
 
 - *2022.09 - Present*, Zhejiang University, Hangzhou, China, Ph.D., Electronic Science and Technology
-- *2018.09 - 2022.06*, Zhejiang University, Hangzhou, China, B.Eng., Microelectronics Science and Engineering 
+- *2018.09 - 2022.06*, Zhejiang University, Hangzhou, China, B.Eng., Microelectronics Science and Engineering (GPA: 3.92/4, Rank: 4/77)
 
 <span class='anchor' id='-hobby'></span>
 
