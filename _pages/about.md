@@ -50,7 +50,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 <span class='anchor' id='-honors'></span>
 
-# 🏅 Selected Honors and Awards
+# 🎖️ Selected Honors and Awards
 
 - Yuelun Alumni Scholarship (Two Times), *2023, 2021*
 - Outstanding Graduates of Zhejiang Province, *2022*
@@ -58,8 +58,14 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 - The First Class Scholarship (Three Times), *2019-2021*
 - Bronze medal of Student Research Competition at ICCAD, *2021*
 - Enterprise Special Award at Integrated Circuit EDA Design Elite Challenge (Team Leader), *2021* 
-- 2nd place (men's team) and 3rd place (mixed doubles) in the table tennis competition of the 16th University Games of Zhejiang Province, *2021*
 - Huawei Elite Scholarship, *2020*
+
+<span class='anchor' id='-athlete'></span>
+
+# 🏆️ Athlete Performance
+
+- 1st place (men's team) and 3rd place (mixed doubles) in the Zhejiang Province University Table Tennis Championship, *2024*
+- 2nd place (men's team) and 3rd place (mixed doubles) in the Table Tennis Competition of the 16th University Games of Zhejiang Province, *2022*
 
 <span class='anchor' id='-educations'></span>
 
