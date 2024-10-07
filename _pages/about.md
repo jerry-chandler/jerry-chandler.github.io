@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second year Ph.D candidate at [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China, advised by Prof. [Xunzhao Yin](https://person.zju.edu.cn/en/xunzhaoyin). My research interests include compute-in-memory circuit/system design and software-hardware co-design for acceleration of combinatorial optimization problems. 
+I'm a third year Ph.D candidate at [Zhejiang University](https://www.zju.edu.cn/), Hangzhou, China, advised by Prof. [Xunzhao Yin](https://person.zju.edu.cn/en/xunzhaoyin). My research interests include compute-in-memory circuit/system design and software-hardware co-design for acceleration of combinatorial optimization problems. 
 
 I have published several [papers](https://scholar.google.com/citations?user=RoH8vVYAAAAJ) in top journals and conferences including Nature Communications, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Design Automation Conference (DAC), Design Automation and Test in Europe (DATE),  Asia and South Pacific Design Automation Conference (ASP-DAC), etc. 
 
