@@ -28,6 +28,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2024.10*, I am awarded the National Scholarship as a Ph.D student!
 - *2024.05*, our paper is accepted by TVLSI! Congratulations to all!
 - *2024.03*, our paper is published on Nature Communications! Congratulations to all! The paper is available at [https://www.nature.com/articles/s41467-024-46640-x](https://www.nature.com/articles/s41467-024-46640-x).
 - *2024.02*, three papers are accepted by DAC2024! Congratulations to all!
@@ -52,9 +53,10 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 # 🎖️ Selected Honors and Awards
 
+- National Scholarship (Ph.D), *2024*
 - Yuelun Alumni Scholarship (Two Times), *2023, 2021*
 - Outstanding Graduates of Zhejiang Province, *2022*
-- National Scholarship (Two Times), *2020-2021*
+- National Scholarship (Two Times, Undergraduate), *2020-2021*
 - The First Class Scholarship (Three Times), *2019-2021*
 - Bronze medal of Student Research Competition at ICCAD, *2021*
 - Enterprise Special Award at Integrated Circuit EDA Design Elite Challenge (Team Leader), *2021* 
