@@ -12,6 +12,9 @@ main:
   - title: "Selected Honors and Awards"
     url: "/#-honors"
 
+  - title: "Academic Service"
+    url: "/#-service"
+    
   - title: "Athlete Performance"
     url: "/#-athlete"
 
