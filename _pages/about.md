@@ -62,6 +62,11 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 - Enterprise Special Award at Integrated Circuit EDA Design Elite Challenge (Team Leader), *2021* 
 - Huawei Elite Scholarship, *2020*
 
+<span class='anchor' id='-service'></span>
+
+# ✍🏻 Academic Service
+- Conference Reviewer: ISCAS 2025
+
 <span class='anchor' id='-athlete'></span>
 
 # 🏆️ Athlete Performance
