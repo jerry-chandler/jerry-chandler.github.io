@@ -66,6 +66,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 # ✍🏻 Academic Service
 - Conference Reviewer: ISCAS 2025
+- Journal Reviewer: TCAD
 
 <span class='anchor' id='-athlete'></span>
 
