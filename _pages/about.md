@@ -38,9 +38,9 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 # 📝 Publications
 ## 📚 Journal Papers
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">TVLSI 2024</span> **Yu Qian**\*, Liang Zhao\*, Fanzi Meng, Xiapeng Xu, Cheng zhuo and Xunzhao Yin, "Enhancing ConvNets with ConvFIFO: A Crossbar PIM Architecture Based on Kernel-Stationary First-In-First-Out Dataflow". IEEE Transactions on Very Large Scale Integration Systems, 2024 (01): 1-12. (IF = 3, JCR Section 2)
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">Nature Communications 2024</span> Xunzhao Yin\*, **Yu Qian**\*, Alptekin Vardar, Marcel Günther, Franz Müller, Nellie Laleni, Zijian Zhao, Zhouhang Jiang, Zhiguo Shi, Yiyu Shi, Xiao Gong, Cheng Zhuo, Thomas Kämpfe and Kai Ni, "Ferroelectric Compute-in-Memory Annealer for Combinatorial Optimization Problems". Nature Communications 15, 2419 (2024). (IF = 17, JCR Section 1)
-- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">TCAD 2022</span> Xunzhao Yin, **Yu Qian**, Mohsen Imani, Kai Ni, Chao Li, Grace Li Zhang, Bing Li, Ulf Schlichtmann and Cheng Zhuo, "Ferroelectric Ternary Content Addressable Memories for Energy-Efficient Associative Search", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022, 42(4): 1099-1112. (IF = 3, CCF-A, JCR Section 3)
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">TVLSI 2024</span> **Yu Qian**\*, Liang Zhao\*, Fanzi Meng, Xiapeng Xu, Cheng zhuo and Xunzhao Yin, "Enhancing ConvNets with ConvFIFO: A Crossbar PIM Architecture Based on Kernel-Stationary First-In-First-Out Dataflow". IEEE Transactions on Very Large Scale Integration Systems, 2024 (01): 1-12. (IF = 3, SCI Section II)
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">Nature Communications 2024</span> Xunzhao Yin\*, **Yu Qian**\*, Alptekin Vardar, Marcel Günther, Franz Müller, Nellie Laleni, Zijian Zhao, Zhouhang Jiang, Zhiguo Shi, Yiyu Shi, Xiao Gong, Cheng Zhuo, Thomas Kämpfe and Kai Ni, "Ferroelectric Compute-in-Memory Annealer for Combinatorial Optimization Problems". Nature Communications 15, 2419 (2024). (IF = 17, SCI Section I)
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">TCAD 2022</span> Xunzhao Yin, **Yu Qian**, Mohsen Imani, Kai Ni, Chao Li, Grace Li Zhang, Bing Li, Ulf Schlichtmann and Cheng Zhuo, "Ferroelectric Ternary Content Addressable Memories for Energy-Efficient Associative Search", IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022, 42(4): 1099-1112. (IF = 3, CCF-A, SCI Section III)
 
 ## 📚 Conference Papers
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DAC 2024</span> **Yu Qian**, Zeyu Yang, Kai Ni, Alptekin Vardar, Thomas Kämpfe and Xunzhao Yin, "HyCiM: A Hybrid Computing-in-Memory QUBO Solver for General Combinatorial Optimization Problems with Inequality Constraints", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun. 23-27, 2024. (CCF-A, EDA TOP 4 Conference)
@@ -86,7 +86,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 # 🏃 Specialties and Hobbies
 
-- 🏓 Table Tennis:  Member of Zhejiang University team, *2018-Present*
+- 🏓 Table Tennis: Member of Zhejiang University team, *2018-Present*
 - 🎤 Host: Host of the College New Year Party and Graduation Party, *2020-2022*
 
 
