@@ -28,10 +28,11 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.02*, two papers are accepted by DAC 2025! Congratulations to all!
 - *2024.10*, I am awarded the National Scholarship as a Ph.D student!
 - *2024.05*, our paper is accepted by TVLSI! Congratulations to all!
 - *2024.03*, our paper is published on Nature Communications! Congratulations to all! The paper is available at [https://www.nature.com/articles/s41467-024-46640-x](https://www.nature.com/articles/s41467-024-46640-x).
-- *2024.02*, three papers are accepted by DAC2024! Congratulations to all!
+- *2024.02*, three papers are accepted by DAC 2024! Congratulations to all!
 
  
 <span class='anchor' id='-publications'></span>
