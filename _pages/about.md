@@ -28,6 +28,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.02*, our paper is accepted by TCAS-I! Congratulations to all!
 - *2025.02*, two papers are accepted by DAC 2025! Congratulations to all!
 - *2024.10*, I am awarded the National Scholarship as a Ph.D student!
 - *2024.05*, our paper is accepted by TVLSI! Congratulations to all!
