@@ -57,6 +57,7 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 # 🎖️ Selected Honors and Awards
 
+- Outstanding Poster Award at the Post-Moore Academic Annual Conference, *2025*
 - National Scholarship (Ph.D), *2024*
 - Yuelun Alumni Scholarship (Two Times), *2023, 2021*
 - Outstanding Graduates of Zhejiang Province, *2022*
