@@ -14,7 +14,10 @@ main:
 
   - title: "Academic Service"
     url: "/#-service"
-    
+
+  - title: "Invited Talks"
+    url: "/#-talk"
+
   - title: "Athlete Performance"
     url: "/#-athlete"
 

@@ -70,8 +70,14 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 <span class='anchor' id='-service'></span>
 
 # ✍🏻 Academic Service
-- Conference Reviewer: ISCAS 2025
+- Conference Reviewer: ISCAS *2025*
 - Journal Reviewer: TCAD
+
+<span class='anchor' id='-talk'></span>
+
+# 🪑 Invited Talks
+- "FeFET-based Compute-in-Memory Solver for Combinatorial Optimization Problems", FIT Forum of the Facalty of Information Technology, Zhejiang University, *2025*
+- "A Compute-in-Memory Framework for Nach Equilibrium Problems", Academic Forum of the School of Integrated Circuits, Zhejiang University, *2025*
 
 <span class='anchor' id='-athlete'></span>
 
