@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year Ph.D candidate at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), Hangzhou, China, advised by Prof. [Xunzhao Yin](https://person.zju.edu.cn/en/xunzhaoyin). My research interests include compute-in-memory circuit/system design and software-hardware co-design for acceleration of combinatorial optimization problems. 
+I'm a third year Ph.D candidate at [Zhejiang University (浙江大学)](https://www.zju.edu.cn/), Hangzhou, China, advised by Prof. [Xunzhao Yin](https://person.zju.edu.cn/en/xunzhaoyin). My research interests include compute-in-memory circuit/system design and software-hardware co-design for acceleration of content addressable memory (CAM), neural network (NN) and combinatorial optimization problems (COPs). 
 
 I have published several [papers](https://scholar.google.com/citations?user=RoH8vVYAAAAJ) in top journals and conference proceedings including Nature Communications, IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I), IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), IEEE Transactions on Very Large Scale Integration Systems (TVLSI), Design Automation Conference (DAC), Design Automation and Test in Europe (DATE),  Asia and South Pacific Design Automation Conference (ASP-DAC), etc. 
 
-Currently, I hold broad interests in solving/accelerating various combinatorial optimization problems (e.g., Max-Cut, Graph Coloring, Knapsack, etc.) using Ising machines/QUBO solvers. Welcome to contact and collaborate with me!
+I anticipate being on the job market in 2027 and welcome contact and collaboration from both academia and industry. Please feel free to reach out!
   
 
 
@@ -47,6 +47,8 @@ Currently, I hold broad interests in solving/accelerating various combinatorial 
 
 ## 📚 Conference Papers
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DAC 2025</span> **Yu Qian**, Xianmin Huang, Ranran Wang, Zeyu Yang, Min Zhou, Thomas Kämpfe, Cheng Zhuo and Xunzhao Yin, "Device-Algorithm Co-Design of Ferroelectric Compute-in-Memory In-Situ Annealer for Combinatorial Optimization Problems", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun. 21-25, 2025. (CCF-A, EDA TOP 4 Conference)
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DAC 2025</span> Xuliang Yu, **Yu Qian**, Xunzhao Yin, Cheng Zhuo and Liang Zhao, "FeKAN: Efficient Kolmogorov-Arnold Networks Accelerator Using FeFET-based CAM and LUT", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun. 21-25, 2025. (CCF-A, EDA TOP 4 Conference)
+- <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">ISEDA 2025</span> Jiayi Wang, **Yu Qian**, Zeyu Yang, Zheyu Yan, Cheng Zhuo and Xunzhao Yin", ACM/IEEE International Symposium of EDA (ISEDA), Hong Kong Disneyland, China, May 9-12, 2025.
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DAC 2024</span> **Yu Qian**, Zeyu Yang, Kai Ni, Alptekin Vardar, Thomas Kämpfe and Xunzhao Yin, "HyCiM: A Hybrid Computing-in-Memory QUBO Solver for General Combinatorial Optimization Problems with Inequality Constraints", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun. 23-27, 2024. 2024: 1-6. (CCF-A, EDA TOP 4 Conference)
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DAC 2024</span> **Yu Qian**, Kai Ni, Thomas Kämpfe, Cheng Zhuo and Xunzhao Yin, "C-Nash: A Novel Ferroelectric Computing-in-Memory Architecture for Solving Mixed Strategy Nash Equilibrium", ACM/IEEE Design Automation Conference(DAC), San Francisco, CA, Jun. 23-27, 2024. 2024: 1-6. (CCF-A, EDA TOP 4 Conference)
 - <span style="background-color:blue; color:white; font-family: 'Special Elite', cursive;">DAC 2024</span> Zeyu Yang, Qingrong Huang, **Yu Qian**, Kai Ni, Thomas Kämpfe and Xunzhao Yin, "Energy Efficient Dual Designs of FeFET-Based Analog In-Memory Computing with Inherent Shift-Add Capability", ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jun. 23-27, 2024. 2024: 1-6. (CCF-A, EDA TOP 4 Conference)
